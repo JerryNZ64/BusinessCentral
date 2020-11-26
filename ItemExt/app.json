@@ -1,0 +1,26 @@
+{
+  "id": "c2603642-44ee-431b-ac12-26e823eeb5c6",
+  "name": "ItemExt",
+  "publisher": "ERP365",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ItemExt.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
